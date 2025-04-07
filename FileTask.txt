@@ -1,0 +1,4 @@
+Titulo: Estudos Java
+Status: NAO_INICIADO
+Descrição: Estudos de java para ser um desenvolvedor java.
+Data Inicio: Não Iniciada	Data Fim: Não Finalizada
